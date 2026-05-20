@@ -59,3 +59,9 @@ MIT — see [`LICENSE`](LICENSE).
 ---
 
 *Author: Muhammad Hanzala Iqbal.*
+
+## Related projects
+
+- [`mimo-channel-estimation`](https://github.com/MuhammadHanzalaIqbal/mimo-channel-estimation) — drops the perfect-CSI assumption; SRS-based LS estimation.
+- [`mimo-channel-denoising`](https://github.com/MuhammadHanzalaIqbal/mimo-channel-denoising) — adaptive delay-window + soft singular-value shrinkage on top of the noisy LS estimate.
+- [`nanoGPT-rf-rope-ablation`](https://github.com/MuhammadHanzalaIqbal/nanoGPT-rf-rope-ablation) — small-transformer architectural ablation (RoPE vs learned PE), trained on RF/telecom text.
